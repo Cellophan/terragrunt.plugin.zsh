@@ -14,3 +14,8 @@ Current as of Terragrunt v0.17.4
 
  * Type `terragrunt` into your prompt and hit `TAB` to see available completion options
 
+### Installation
+
+    mkdir -p ~/.oh-my-zsh/custom/plugins
+    git clone https://github.com/Cellophan/terragrunt.plugin.zsh.git ~/.oh-my-zsh/custom/plugins/terragrunt
+
